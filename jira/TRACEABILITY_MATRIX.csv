@@ -1,0 +1,6 @@
+requirement_id,description,test_case_id,jira_ticket,status
+REQ-API-01,Users endpoint returns list,TC-API-001,PORT-101,Planned
+REQ-API-02,User object includes required fields,TC-API-002,PORT-102,Planned
+REQ-API-03,Invalid user handled gracefully,TC-API-003,PORT-103,Planned
+REQ-API-04,Post creation endpoint works,TC-API-004,PORT-104,Planned
+REQ-API-05,Users endpoint performance acceptable,TC-API-005,PORT-105,Planned
